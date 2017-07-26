@@ -1,7 +1,7 @@
 # ResponsiTccl
-Responsi TCCL 
 
-Saya Membuat Aplikasi web untuk menampilkan profil pribadi
+
+Saya Membuat Aplikasi web untuk menampilkan profil pribadi menggunakan html 
 
 Tampilan web Profil saya
 
