@@ -9,8 +9,7 @@ Dockerfile merupakan skrip yang berisi atau terdiri dari serangkaian perintah, i
 Sebelum kita masuk dockerfile langkah pertama yang kita lakukan ialah membuat directory dengan menggunakan perintah mkdir ResponsiTccl, kemudian untuk masuk kedalam directory menggunakan perintah cd ResponsiTccl,
 ![langkah 1](https://github.com/Firdaus14/ResponsiTccl/blob/master/langkah%201.png)
 
-
-langkah kedua yaitu membuat image dengan menggunakan perintah sudo docker build -t dengan menggunakan nama responsidaus
+langkah kedua yaitu membuat image dengan menggunakan perintah sudo docker build -t dengan menggunakan nama responsidaus dan akan muncul 3 step.
 
 ![langkah 2](https://github.com/Firdaus14/ResponsiTccl/blob/master/langkah%202.png)
 
@@ -18,6 +17,7 @@ dan untuk langakah ketiga dengan menggunakan perintah sudo docker run -p 80:80 -
 ![langkah 3](https://github.com/Firdaus14/ResponsiTccl/blob/master/langkah%203.png)
 
 Kemudian pada langkah keempat yaitu cara untuk melakukan push file dengan menggunakan perintah git add -A dan git commit -m "psh" 
+
 ![langakah 4](https://github.com/Firdaus14/ResponsiTccl/blob/master/langakah%204.png)
 
 
