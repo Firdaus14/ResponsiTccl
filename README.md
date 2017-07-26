@@ -1,6 +1,10 @@
 # ResponsiTccl
-Saya Membuat aplikasi web untuk menampilkan profil pribadi
-Tampilan web Profil saya 
+Responsi TCCL 
+
+Saya Membuat Aplikasi web untuk menampilkan profil pribadi
+
+Tampilan web Profil saya
+
 ![p](https://github.com/Firdaus14/ResponsiTccl/blob/master/p.png)
 
 Dockerfile 
@@ -16,7 +20,7 @@ langkah kedua yaitu membuat image dengan menggunakan perintah sudo docker build 
 dan untuk langakah ketiga dengan menggunakan perintah sudo docker run -p 80:80 --name responsidaus-1 responsidaus berfungsi untuk menjalankan images responsidaus didalam localhost dengan port 80 yang namanya responsidaus-1.
 ![langkah 3](https://github.com/Firdaus14/ResponsiTccl/blob/master/langkah%203.png)
 
-Kemudian pada langkah keempat yaitu cara untuk melakukan push file dengan menggunakan perintah git add -A dan git commit -m "psh" 
+Kemudian pada langkah keempat yaitu cara untuk melakukan push file dengan menggunakan perintah git add -A dan git commit -m "psh" lalu git push origin master dan apabila kita jalankan maka dia akan meminta usermane github dan password
 
 ![langakah 4](https://github.com/Firdaus14/ResponsiTccl/blob/master/langakah%204.png)
 
