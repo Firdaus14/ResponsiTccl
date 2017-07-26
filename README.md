@@ -4,7 +4,7 @@ Saya Membuat aplikasi web untuk menampilkan profil pribadi
 Dockerfile 
 
 Dockerfile merupakan skrip yang berisi atau terdiri dari serangkaian perintah, intruksi (argumen) yang akan dieksekusi secara otomatisasi dan berurutan untuk membangun sebuah image. Jadi akan mempermudah kita untuk tidak selalu mengetikkan perintah setiap kali kita akan menjalankan container.
-
+![langakah 1](https://github.com/Firdaus14/ResponsiTccl/blob/master/langkah%201.png)
 
 Sebelum kita masuk dockerfile langkah pertama yang kita lakukan ialah membuat directory dengan menggunakan perintah mkdir ResponsiTccl, kemudian untuk masuk kedalam directory menggunakan perintah cd ResponsiTccl,
 
